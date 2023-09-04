@@ -1,1 +1,1 @@
-Repository for bash project.
+read me for shell basics project

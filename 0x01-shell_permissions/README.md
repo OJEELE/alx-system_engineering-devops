@@ -1,1 +1,1 @@
-description of 0x01-shell_permissions scripts
+scripts for 0x01-shell_permissions project
